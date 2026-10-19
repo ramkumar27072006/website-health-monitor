@@ -1,0 +1,8 @@
+{
+  "timeout_seconds": 10,
+  "slow_response_ms": 1500,
+  "tls_warning_days": 30,
+  "urls": [
+    "https://example.com"
+  ]
+}
