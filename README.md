@@ -11,6 +11,7 @@ Small businesses often discover downtime only after customers complain. This too
 Local restaurants, clinics, coaching centers, and online shops may not notice when their website is slow or offline. A freelancer can configure this monitor, send a weekly report, and remind the owner about problems such as downtime, missing headers, or an expiring TLS certificate.
 
 This is a service tool, not passive income by itself. The value comes from setup, maintenance, reporting, and helping the customer fix issues.
+<img width="800" height="530" alt="image" src="https://github.com/user-attachments/assets/941c8a0b-7796-42b5-b2fc-c15fab40d30d" />
 
 ## Features
 
